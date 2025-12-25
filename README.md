@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+View your app in AI Studio: https://gleaming-malabi-b21a15.netlify.app/
 
 ## Run Locally
 
