@@ -241,12 +241,11 @@ Distributed under the MIT License. See LICENSE for more information.
 
 <div align="center">
 
-### Built with  by [Aakash Lalwani](https://github.com/Aakash-Lalwani)
+### Built with  by [CodeBusters](https://github.com/Aakash-Lalwani)
 
-**If LogicTrace AI helped you understand code better, consider giving it a !**
+**LogicTrace — See the Code. Understand the Logic.**
 
 ---
 
-<sub>LogicTrace AI Studio v3.4.2  Making code visible since 2025</sub>
 
 </div>
