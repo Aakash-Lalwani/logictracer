@@ -1,0 +1,9 @@
+
+{
+  "name": "LogicTrace AI",
+  "description": "An educational platform that transforms code into step-by-step visual explanations and AI-animated video walkthroughs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
